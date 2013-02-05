@@ -11,7 +11,7 @@
   URL: http://code.google.com/p/html5slides/
 */
 
-var PERMANENT_URL_PREFIX = 'http://192.168.3.100:8080/';
+var PERMANENT_URL_PREFIX = 'http://ajpiano.com/responsible-jquery/';
 
 var SLIDE_CLASSES = ['far-past', 'past', 'current', 'next', 'far-next'];
 

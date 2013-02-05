@@ -470,6 +470,11 @@ article.fill img {
 
   z-index: -1;
 }
+
+article.fill p,
+article.fill ul {
+  background: rgba(255, 255, 255, 0.8);
+}
 img.centered {
   margin: 0 auto;
   display: block;
